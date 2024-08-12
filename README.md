@@ -1,1 +1,1 @@
-# faaast-registry
+# faaast.registry
