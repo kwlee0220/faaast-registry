@@ -1,0 +1,4 @@
+rootProject.name = 'faaast-registry'
+
+include ':faaast-lib'
+project(':faaast-lib').projectDir = file('../faaast-lib')
